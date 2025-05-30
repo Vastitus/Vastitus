@@ -5,9 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-🧑‍🎓 I’m currently studying at FH Campus Wien. <br/>
-🌱 I’m currently learning Computer Science and Digital Communications (4th Semester).
-
+🌱 I’m currently learning Computer Science and Digital Communications.
 
 <!--
 
